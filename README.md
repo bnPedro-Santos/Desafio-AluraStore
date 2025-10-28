@@ -1,4 +1,4 @@
-# 🛍️ Projeto Alura Store – Análise de Eficiência das Lojas
+# Projeto Alura Store – Análise de Eficiência das Lojas
 
 ## 📌 Descrição
 
@@ -53,6 +53,4 @@ Após a análise dos dados, foi possível concluir que:
 ## 📎 Autor
 
 Projeto desenvolvido por Pedro Santos como parte do desafio de Data Science do Programa ONE.
-
-Este projeto é apenas para fins educacionais e não possui fins comerciais.
 
