@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte de um desafio da Alura, com o objetivo de ajudar o Senhor João a decidir qual loja da sua rede fictícia **Alura Store** deve ser vendida para que ele possa iniciar um novo empreendimento.
 
-A análise foi feita com base em dados reais de vendas, desempenho por categoria, avaliações de clientes e frete médio das **4 lojas** da rede. A partir desses indicadores, foi possível identificar a loja com menor eficiência operacional e recomendar sua venda.
+A análise foi feita com base em dados ficticios de vendas, desempenho por categoria, avaliações de clientes e frete médio das **4 lojas** da rede. A partir desses indicadores, foi possível identificar a loja com menor eficiência operacional e recomendar sua venda.
 
 ---
 
